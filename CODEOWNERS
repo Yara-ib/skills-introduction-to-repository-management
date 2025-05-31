@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Yara-ib
+/src/backend/database.py      @Yara-ib
+/src/backend/routers/auth.py  @Yara-ib
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Yara-ib
